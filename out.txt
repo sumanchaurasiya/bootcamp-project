@@ -1,0 +1,5 @@
+Temperature (in kelvin) = 298.11
+ Atmospheric Pressure (in hPa) = 996
+ Humidity (in percentage) = 94
+ Description = mist
+ -------------------------- 
